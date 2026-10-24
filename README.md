@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/jaswanth110407/leet-code/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/jaswanth110407/leet-code/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/jaswanth110407/leet-code/tree/master/0739-daily-temperatures) |
+| [1046-last-stone-weight](https://github.com/jaswanth110407/leet-code/tree/master/1046-last-stone-weight) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jaswanth110407/leet-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/jaswanth110407/leet-code/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jaswanth110407/leet-code/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaswanth110407/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/jaswanth110407/leet-code/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
