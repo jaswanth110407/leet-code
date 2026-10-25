@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/jaswanth110407/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/jaswanth110407/leet-code/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/jaswanth110407/leet-code/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/jaswanth110407/leet-code/tree/master/0044-wildcard-matching) |
 | [2409-count-days-spent-together](https://github.com/jaswanth110407/leet-code/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/jaswanth110407/leet-code/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/jaswanth110407/leet-code/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jaswanth110407/leet-code/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/jaswanth110407/leet-code/tree/master/0044-wildcard-matching) |
 ## Manacher
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jaswanth110407/leet-code/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/jaswanth110407/leet-code/tree/master/0044-wildcard-matching) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/jaswanth110407/leet-code/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/jaswanth110407/leet-code/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/jaswanth110407/leet-code/tree/master/1354-construct-target-array-with-multiple-sums) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/jaswanth110407/leet-code/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
