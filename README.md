@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jaswanth110407/leet-code/tree/master/0043-multiply-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/jaswanth110407/leet-code/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/jaswanth110407/leet-code/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jaswanth110407/leet-code/tree/master/2073-time-needed-to-buy-tickets) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/jaswanth110407/leet-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jaswanth110407/leet-code/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/jaswanth110407/leet-code/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jaswanth110407/leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2409-count-days-spent-together](https://github.com/jaswanth110407/leet-code/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/jaswanth110407/leet-code/tree/master/3886-sum-of-sortable-integers) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jaswanth110407/leet-code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/jaswanth110407/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/jaswanth110407/leet-code/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/jaswanth110407/leet-code/tree/master/0043-multiply-strings) |
 | [2409-count-days-spent-together](https://github.com/jaswanth110407/leet-code/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
 |  |
