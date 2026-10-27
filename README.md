@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jaswanth110407/leet-code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jaswanth110407/leet-code/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/jaswanth110407/leet-code/tree/master/0065-valid-number) |
+| [0520-detect-capital](https://github.com/jaswanth110407/leet-code/tree/master/0520-detect-capital) |
 | [2409-count-days-spent-together](https://github.com/jaswanth110407/leet-code/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
 |  |
