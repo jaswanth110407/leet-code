@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/jaswanth110407/leet-code/tree/master/2073-time-needed-to-buy-tickets) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/jaswanth110407/leet-code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jaswanth110407/leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jaswanth110407/leet-code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3886-sum-of-sortable-integers](https://github.com/jaswanth110407/leet-code/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jaswanth110407/leet-code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaswanth110407/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/jaswanth110407/leet-code/tree/master/0031-next-permutation) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jaswanth110407/leet-code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/jaswanth110407/leet-code/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jaswanth110407/leet-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/jaswanth110407/leet-code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jaswanth110407/leet-code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3886-sum-of-sortable-integers](https://github.com/jaswanth110407/leet-code/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/jaswanth110407/leet-code/tree/master/0044-wildcard-matching) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jaswanth110407/leet-code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -225,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/jaswanth110407/leet-code/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jaswanth110407/leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Binary Search
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jaswanth110407/leet-code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 <!---LeetCode Topics End-->
