@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jaswanth110407/leet-code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/jaswanth110407/leet-code/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/jaswanth110407/leet-code/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/jaswanth110407/leet-code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/jaswanth110407/leet-code/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jaswanth110407/leet-code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jaswanth110407/leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaswanth110407/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jaswanth110407/leet-code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/jaswanth110407/leet-code/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/jaswanth110407/leet-code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/jaswanth110407/leet-code/tree/master/0049-group-anagrams) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jaswanth110407/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/jaswanth110407/leet-code/tree/master/0645-set-mismatch) |
