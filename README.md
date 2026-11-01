@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaswanth110407/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jaswanth110407/leet-code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/jaswanth110407/leet-code/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/jaswanth110407/leet-code/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/jaswanth110407/leet-code/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jaswanth110407/leet-code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jaswanth110407/leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jaswanth110407/leet-code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaswanth110407/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jaswanth110407/leet-code/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/jaswanth110407/leet-code/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/jaswanth110407/leet-code/tree/master/0049-group-anagrams) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jaswanth110407/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/jaswanth110407/leet-code/tree/master/0645-set-mismatch) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaswanth110407/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jaswanth110407/leet-code/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/jaswanth110407/leet-code/tree/master/0037-sudoku-solver) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -227,10 +230,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/jaswanth110407/leet-code/tree/master/0037-sudoku-solver) |
 | [1254-number-of-closed-islands](https://github.com/jaswanth110407/leet-code/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jaswanth110407/leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jaswanth110407/leet-code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/jaswanth110407/leet-code/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/jaswanth110407/leet-code/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
