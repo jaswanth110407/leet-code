@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/jaswanth110407/leet-code/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/jaswanth110407/leet-code/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/jaswanth110407/leet-code/tree/master/0520-detect-capital) |
+| [0686-repeated-string-match](https://github.com/jaswanth110407/leet-code/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/jaswanth110407/leet-code/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/jaswanth110407/leet-code/tree/master/0831-masking-personal-information) |
 | [2409-count-days-spent-together](https://github.com/jaswanth110407/leet-code/tree/master/2409-count-days-spent-together) |
@@ -208,21 +209,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaswanth110407/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/jaswanth110407/leet-code/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/jaswanth110407/leet-code/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/jaswanth110407/leet-code/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaswanth110407/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/jaswanth110407/leet-code/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/jaswanth110407/leet-code/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaswanth110407/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/jaswanth110407/leet-code/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/jaswanth110407/leet-code/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaswanth110407/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/jaswanth110407/leet-code/tree/master/0686-repeated-string-match) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
