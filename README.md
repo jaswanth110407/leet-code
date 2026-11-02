@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jaswanth110407/leet-code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jaswanth110407/leet-code/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/jaswanth110407/leet-code/tree/master/0065-valid-number) |
+| [0459-repeated-substring-pattern](https://github.com/jaswanth110407/leet-code/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/jaswanth110407/leet-code/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/jaswanth110407/leet-code/tree/master/0520-detect-capital) |
 | [0831-masking-personal-information](https://github.com/jaswanth110407/leet-code/tree/master/0831-masking-personal-information) |
@@ -205,14 +206,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaswanth110407/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/jaswanth110407/leet-code/tree/master/0459-repeated-substring-pattern) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaswanth110407/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/jaswanth110407/leet-code/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaswanth110407/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/jaswanth110407/leet-code/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
