@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/jaswanth110407/leet-code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jaswanth110407/leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jaswanth110407/leet-code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jaswanth110407/leet-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/jaswanth110407/leet-code/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jaswanth110407/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jaswanth110407/leet-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/jaswanth110407/leet-code/tree/master/2409-count-days-spent-together) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jaswanth110407/leet-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/jaswanth110407/leet-code/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
