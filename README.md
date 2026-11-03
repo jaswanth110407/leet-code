@@ -278,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/jaswanth110407/leet-code/tree/master/0037-sudoku-solver) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/jaswanth110407/leet-code/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
