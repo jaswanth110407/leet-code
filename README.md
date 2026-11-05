@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jaswanth110407/leet-code/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/jaswanth110407/leet-code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jaswanth110407/leet-code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/jaswanth110407/leet-code/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/jaswanth110407/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jaswanth110407/leet-code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jaswanth110407/leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/jaswanth110407/leet-code/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/jaswanth110407/leet-code/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jaswanth110407/leet-code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/jaswanth110407/leet-code/tree/master/0055-jump-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jaswanth110407/leet-code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Manacher
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/jaswanth110407/leet-code/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/jaswanth110407/leet-code/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/jaswanth110407/leet-code/tree/master/0055-jump-game) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jaswanth110407/leet-code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Depth-First Search
 |  |
